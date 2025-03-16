@@ -1,0 +1,13 @@
+login_attempts,devices_used,access_frequency,risky_behavior,target
+3,2,10,0,safe
+5,1,15,1,risky
+2,1,8,0,safe
+6,3,20,1,risky
+1,1,5,0,safe
+4,2,12,1,risky
+3,1,9,0,safe
+7,3,25,1,risky
+2,1,7,0,safe
+4,2,14,1,risky
+1,1,6,0,safe
+5,3,18,1,risky
